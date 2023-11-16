@@ -1,0 +1,17 @@
+URL del Curso en Youtube: https://www.youtube.com/watch?v=Z8zAKYLZBqc&list=PLuQS8KBzq8pPl0-dkDV1C7ifwHUBhl7i0&ab_channel=ATLAcademy%28byLucasMoy%29
+¿Que es informacion?
+-Conjunto de datos organizados que al leerlos nos da un significado-
+
+*Convencion de nombres*
+-camelCase -snake_case -SCREAMING_SNAKE_CASE -kebab-case
+-l33t -Notacion Hungara
+
+¿Que es una variable?
+-Es un contenedor que almacena un valor asignado, para ser utilizado posteriormente y puede ser modificada-
+-Se escriben principalmente en camelCase
+-No puede haber un espacio entre el nombre
+-No se pueden usar palabras reservadas Ejemplo: if, while, for, etc.
+
+¿Que es una constante?
+-Es un contenedor que almacena un valor que no se puede modificar-
+-Se escriben generalmente en SCREAMIN_SNAKE_CASE
